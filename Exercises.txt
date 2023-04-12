@@ -1,6 +1,8 @@
-Write a program that asks the user for their name and age, and then calculates and prints out how old they will be in 10 years.
+Write a program that asks the user for their name and age, and then calculates and prints out how old they will be in 10 years. ✅
 
-Write a program that calculates the area of a rectangle, given its width and height. Ask the user to input the values for width and height.
+Write a program that converts a number to roman numerals. ✅
+
+Write a program that calculates the area of a rectangle, given its width and height. Ask the user to input the values for width and height. ✅
 
 Write a program that asks the user for a number, and then prints out whether the number is even or odd.
 
@@ -17,3 +19,4 @@ Write a program that asks the user for two numbers, and then calculates and prin
 Write a program that asks the user for a number, and then calculates and prints out its square and cube.
 
 Write a program that asks the user for a string, and then prints out the length of the string.
+
