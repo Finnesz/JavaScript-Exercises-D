@@ -2,4 +2,4 @@
 
 Hi!👋 Just starting out with JavaScript :.
 
-Will be adding more small projects/exercises soon! 🚩
+Will be adding/completing more small projects/exercises soon! 🚩
