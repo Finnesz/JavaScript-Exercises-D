@@ -1,0 +1,19 @@
+Write a program that asks the user for their name and age, and then calculates and prints out how old they will be in 10 years.
+
+Write a program that calculates the area of a rectangle, given its width and height. Ask the user to input the values for width and height.
+
+Write a program that asks the user for a number, and then prints out whether the number is even or odd.
+
+Write a program that calculates the average of three numbers entered by the user.
+
+Write a program that asks the user for a temperature in Fahrenheit, and then converts it to Celsius.
+
+Write a program that asks the user for a number, and then prints out whether the number is positive, negative, or zero.
+
+Write a program that asks the user for their favorite color, and then prints out a message that says "Your favorite color is [color]".
+
+Write a program that asks the user for two numbers, and then calculates and prints out their sum, difference, product, and quotient.
+
+Write a program that asks the user for a number, and then calculates and prints out its square and cube.
+
+Write a program that asks the user for a string, and then prints out the length of the string.
